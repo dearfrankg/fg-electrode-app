@@ -1,2 +1,7 @@
 {
+  "plugins": {
+    "friends": {
+      "module": "./src/server/plugins/friends"
+    }
+  }
 }
