@@ -35,7 +35,7 @@
     "heroku-postbuild": "clap build"
   },
   "dependencies": {
-    "@cogent-labs/yourcomponent": "^1.0.1",
+    "@cogent-labs/yourcomponent": "^1.0.5",
     "bluebird": "^3.4.6",
     "electrode-archetype-react-app": "^3.0.0",
     "electrode-confippet": "^1.0.0",
